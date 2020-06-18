@@ -1,4 +1,4 @@
-# RN-TS-TDD-Template
+# Reactnative TS-TDD-Template
 
 ### Installation
 > 
