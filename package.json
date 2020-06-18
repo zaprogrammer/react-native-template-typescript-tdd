@@ -1,0 +1,26 @@
+{
+  "name": "react-native-template-ts-tdd",
+  "version": "0.0.1",
+  "description": "A react native template, with support for TDD and typescript out of the box.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaprogrammer/TsTDDReactNativeTemplate.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "template",
+    "starter",
+    "boilerplate",
+    "kit",
+    "typescript",
+    "Test Driven Development",
+    "TDD"
+  ],
+  "author": "Ahmed Elshaabany",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaprogrammer/TsTDDReactNativeTemplate/issues"
+  },
+  "homepage": "https://github.com/zaprogrammer/TsTDDReactNativeTemplate#readme"
+}
