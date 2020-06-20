@@ -1,5 +1,5 @@
 {
-  "name": "react-native-template-typescript-tdd",
+  "name": "@zaprogrammer/react-native-template-typescript-tdd",
   "version": "1.0.3",
   "description": "A react native template, with support for TDD and typescript out of the box.",
   "repository": "git+https://github.com/zaprogrammer/react-native-template-typescript-tdd.git",
