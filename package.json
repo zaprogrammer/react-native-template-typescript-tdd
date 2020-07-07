@@ -1,8 +1,22 @@
 {
-  "name": "@zaprogrammer/react-native-template-typescript-tdd",
-  "version": "1.0.3",
+  "name": "react-native-template-typescript-tdd",
+  "version": "1.0.102",
   "description": "A react native template, with support for TDD and typescript out of the box.",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
   "repository": "git+https://github.com/zaprogrammer/react-native-template-typescript-tdd.git",
+  "keywords": [
+    "react-native",
+    "typescript",
+    "template",
+    "boilerplate",
+    "navigation",
+    "TDD",
+    "jest",
+    "detox"
+  ],
   "author": "Ahmed Elshaabany",
   "license": "MIT"
 }
