@@ -2,7 +2,7 @@
 This template is a react-native boilerplate project template to start with for new projects.
 
 ## Changelog:
-v1.0.104:
+v1.0.105:
 * Upgrade to react native v0.63.2
 
 ## Features

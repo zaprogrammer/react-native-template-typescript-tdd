@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-typescript-tdd",
-  "version": "1.0.104",
+  "version": "1.0.105",
   "description": "A react native template, with support for TDD and typescript out of the box.",
   "files": [
     "template",
