@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-typescript-tdd",
-  "version": "1.0.105",
+  "version": "1.0.107",
   "description": "A react native template, with support for TDD and typescript out of the box.",
   "files": [
     "template",
@@ -17,6 +17,9 @@
     "jest",
     "detox"
   ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/@zaprogrammer"
+  },
   "author": "Ahmed Elshaabany",
   "license": "MIT"
 }
